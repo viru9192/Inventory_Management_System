@@ -157,7 +157,7 @@ This project is an **Inventory Management System** designed to efficiently manag
   - `OrderDetails (OrderDetailID, OrderID, ItemID, Quantity)`
 
 - **Tools**:
-  - SQL environment (e.g., Oracle SQL Developer, MySQL Workbench).
+  - SQL environment (Oracle SQL Developer, MySQL Workbench).
 
 ## Contributing
 
